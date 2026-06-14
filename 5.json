@@ -1,0 +1,11 @@
+{
+  "name": "Cyber Sentinel",
+  "description": "Omega Cats NFT for MEOW mining.",
+  "image": "https://s3.twcstorage.ru/nft-base/Cats/legendary.jpg",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
