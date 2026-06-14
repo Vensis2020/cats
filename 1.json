@@ -1,5 +1,11 @@
 {
-  "name": "Street Cat",
-  "image": "https://s3.twcstorage.ru/nft-base/Cats/Common.png",
-  "description": "Starter Cat Miner NFT."
+  "name": "Silver Byte",
+  "description": "Omega Cats NFT for MEOW mining.",
+  "image": "https://s3.twcstorage.ru/nft-base/Cats/common.jpg",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
 }
